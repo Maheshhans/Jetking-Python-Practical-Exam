@@ -1,0 +1,1 @@
+Ans= User define exception are created to force certain constrains on the values of the variable.

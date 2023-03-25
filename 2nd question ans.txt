@@ -1,0 +1,10 @@
+Ans= Exception is an event which occurs during the execution of program that disrupt the normal flow of the program instruction.
+try
+{run the code
+}
+except
+{}
+else
+{}
+finally
+{}

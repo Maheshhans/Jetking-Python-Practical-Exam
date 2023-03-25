@@ -1,0 +1,5 @@
+Ans There are three types of errors in python programming.
+
+1. Syntax Errors
+2. Logical Eerors
+3. Exception
